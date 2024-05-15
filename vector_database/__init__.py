@@ -1,0 +1,2 @@
+from vector_database.process_doc import docs_processed
+from vector_database.vector_db import KNOWLEDGE_VECTOR_DATABASE
